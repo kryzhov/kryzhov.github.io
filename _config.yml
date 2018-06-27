@@ -14,8 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: /assets/Ryzhov_Resume_27Jun18.pdf
-
+resume-url: https://drive.google.com/open?id=1-vzHCXjLVIwaoFewDHrKEI5wUd3ZwlYD
 url: http://kryzhov.github.io
 
 permalink: /:title/
@@ -38,7 +37,7 @@ disqus:
 # instagram: myinstagram
 # pinterest: mypinterest
 email: kryzhov@pm.me
-phone: +447776I54O72
+phone: +447776154072
 linkedin: kryzhov
 # youtube: myyoutube
 # spotify: myspotify
