@@ -1,6 +1,7 @@
 # body
 name: Kirill Ryzhov
-bio: Concept Development and Delivery. Power and Finance
+bio: Concept Development and Delivery. <br>
+Power and Finance
 
 # summary info
 description:  about technology and stuff related
@@ -37,6 +38,8 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
+email: kryzhov@pm.me
+phone: +447776I54O72
 linkedin: kryzhov
 # youtube: myyoutube
 # spotify: myspotify
@@ -49,7 +52,7 @@ lastfm: oikk
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: kryzhov@pm.me
+
 
 plugins:
   - jekyll-seo-tag
