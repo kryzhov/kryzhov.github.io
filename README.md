@@ -19,19 +19,11 @@
 ## What has inside
 
 - [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
-- Tests with [Travis](https://travis-ci.org/)
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
+- Google Speed: [98/100];
 - No JS. :sunglasses:
 
 ## Setup
-
-0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-4. Write some posts :bowtie:
-
-If you want to test locally on your machine, do the following steps also:
-
+To test locally on your machine, do the following steps:
 1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
 2. Clone the forked repo on your machine
 3. Enter the cloned folder via terminal and run `bundle install`
