@@ -38,4 +38,4 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ---
 
-[MIT](http://ryzhov.mit-license.org/) License © Kirill Ryzhov
+[MIT](http://mit-license.org/) License ©

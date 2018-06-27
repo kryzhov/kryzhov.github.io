@@ -1,6 +1,6 @@
 
 ---
-layout: compress
+layout: default
 title: About
 ---
 
@@ -8,10 +8,13 @@ title: About
 
 <h1>Kirill Ryzhov</h1>
 
-<p> Kirill is Quantitative Consultant specialising in Financial Analysis, Engineering and Project Management. He has definancial modelling, data and predictive analytics, quantitative analysis, and financial risk management. Has commercial experience in strategy, market analysis and business development. </p>
+<p> Quantitative Consultant specialising in Financial Analysis and Risk Management, including
+business financial modelling, data and predictive analytics. </p>
 
-<p>Delivered consultancy and technical advisory assignments within Energy, Power and Utilities practice, including asset management, operations, technology review, and technical due diligence. </p>
+<p>Delivered consultancy and technical advisory assignments within Energy, Power and Utilities practice, including operational strategy, market and technology analysis, asset management, and technical due diligence. </p>
+
 <p>Project management supporting delivery of power infrastructure projects with up to £50M in value across UK, Europe, SE Asia, and Middle East, working collaboratively with multi-disciplinary teams and key project stakeholders. </p>
+
 <p>Strong academic background encompassing MSc in Power Systems Engineering, MSc Financial Risk and Investment Analysis (Distinction) and working towards Chartered Financial Analyst (CFA) qualification.</p>
 
 

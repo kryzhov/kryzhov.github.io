@@ -19,7 +19,10 @@ url: http://kryzhov.github.io
 
 permalink: /:title/
 
-# Enabling google analytics: 'code'
+markdown: kramdown
+highlighter: rouge
+
+# Google analytics: 'code'
 
 # Futureproof for piwik tracking
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -83,7 +86,7 @@ width: normal
 # projects: true
 
 # if you don't need "about" or "blog", comment them out below
-# about: true
+about: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
