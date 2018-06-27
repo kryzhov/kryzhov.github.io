@@ -1,9 +1,9 @@
 # body
 name: Kirill Ryzhov
-bio: Quantitative Finance Professional
+bio: Quantitative Consultant
 
 # summary info
-description:  about technology and stuff related
+description:  Quantitative Consulting
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: http://linkedin.com/in/kryzhov
+resume-url: /assets/Ryzhov_Resume_27Jun18.pdf
 
 url: http://kryzhov.github.io
 
@@ -43,7 +43,7 @@ linkedin: kryzhov
 # youtube: myyoutube
 # spotify: myspotify
 github: kryzhov
-lastfm: oikk
+# lastfm: oikk
 # gitlab: mygitlab
 # stackoverflow:
 # quora: userquora
@@ -64,12 +64,12 @@ jekyll-mentions:
     base_url: https://github.com
 
 authors:
-    johndoe:
-        name: K
-        bio: A Man who travels the world eating noodles
+    kirillryzhov:
+        name: Kirill Ryzhov
+        bio: Quantitative Consultant
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        linkedin: kryzhov
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
