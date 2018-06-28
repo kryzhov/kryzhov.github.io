@@ -5,7 +5,8 @@ title: About
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-{{ site.name }}. {{ site.bio }}
+<br>
+<center><h4>{{ site.name }}. Summary</h4> </center>
 
 <p> Quantitative Consultant specialising in Financial Analysis and
 Risk Management, including business financial modelling, data and
@@ -16,7 +17,7 @@ assemble and lead project teams of data scientist, financial engineers and
 risk analysts to deliver tailored integral
 <a class="link" href="{{ site.url }}/projects">solutions</a> for company clients.
 
-Before <p> joining abctec,
+<p>Before joining <a class="link" href='htrp://abctec.io'>abctec</a>,
 Kirill worked as a consultant and technical advisor on a broad range of
 <a class="link" href="{{ site.url }}/projects">projects</a>
 within Energy, Power and Utilities practice, including
@@ -38,6 +39,7 @@ cum laude MSc Financial Risk and Investment Analysis.</p>
     <li> Energy Commodities
     <li> Project Management
     <li> Technical Advisory in Energy, Power and Utilities
-    <li> Programming: Python, SQL, NoSQL, VBA, Git, Tableau</li>
+    <li> Programming: Python, SQL, NoSQL, VBA,
+    <li> Git, Ruby, Tableau</li>
     <li> In progress: Machine Learning, IBM Watson, Alteryx Designer.
     <li> Russian Language</li>
