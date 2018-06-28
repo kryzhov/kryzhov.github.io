@@ -1,50 +1,43 @@
-
 ---
-layout: default
+layout: page
 title: About
 ---
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h1>Kirill Ryzhov</h1>
+{{ site.name }}. {{ site.bio }}
 
-<p> Quantitative Consultant specialising in Financial Analysis and Risk Management, including
-business financial modelling, data and predictive analytics. </p>
+<p> Quantitative Consultant specialising in Financial Analysis and
+Risk Management, including business financial modelling, data and
+predictive analytics. </p>
 
-<p>Delivered consultancy and technical advisory assignments within Energy, Power and Utilities practice, including operational strategy, market and technology analysis, asset management, and technical due diligence. </p>
+<p> Being part of abc technologies, Kirill has developed project concepts,
+assemble and lead project teams of data scientist, financial engineers and
+risk analysts to deliver tailored integral
+<a class="link" href="{{ site.url }}/projects">solutions</a> for company clients.
 
-<p>Project management supporting delivery of power infrastructure projects with up to £50M in value across UK, Europe, SE Asia, and Middle East, working collaboratively with multi-disciplinary teams and key project stakeholders. </p>
+Before <p> joining abctec,
+Kirill worked as a consultant and technical advisor on a broad range of
+<a class="link" href="{{ site.url }}/projects">projects</a>
+within Energy, Power and Utilities practice, including
+strategy and operational improvement, market and technology analysis,
+asset management, and due diligence. </p>
 
-<p>Strong academic background encompassing MSc in Power Systems Engineering, MSc Financial Risk and Investment Analysis (Distinction) and working towards Chartered Financial Analyst (CFA) qualification.</p>
+<p>As a project management, Kirill has supported projects across
+UK, Europe, SE Asia, and Middle East,
+working collaboratively with multi-disciplinary teams and key
+project stakeholders. </p>
 
+<p>Kirill's academic background is with MSc in Power Systems Engineering,
+cum laude MSc Financial Risk and Investment Analysis.</p>
 
-Consulting international consulting experience for Energy, Power and Utilities practice.
-Offering the world bespoke financial solutions in and risk-adjusting market
-and credit risks) for the project specific applications.  through quantitative
-research, and in depth data and predictive analysis. I utilise multi-level
-modelling, mathematical stochastic, Direct project management experience
-supporting projects of up to £50M across UK, Europe, Asia, and Middle East,
- working collaboratively with multi-disciplinary teams and key project stakeholders.
-Extensive commercial experience in business strategy, planning and development.
-Have strong academic background with MSc in Power Systems Engineering,
-MSc Financial Risk and Investment Analysis (Distinction).</p>
-
-<p></p>
-
-<h2>Skills</h2>
-
+<h3>Key Skills</h3>
 <ul class="skill-list">
-
-	<li>Python</li>
-	<li>SQL - MySQL - NoSQL</li>
-	<li>VBA</li>
-	<li>HTML5</li>
-	<li>Git</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-
-</ul>
+    <li> Financial Analysis: Investment, Risk, Portfolio Management
+    <li> Data Analysis and Predictive analytics
+    <li> Energy Commodities
+    <li> Project Management
+    <li> Technical Advisory in Energy, Power and Utilities
+    <li> Programming: Python, SQL, NoSQL, VBA, Git, Tableau</li>
+    <li> In progress: Machine Learning, IBM Watson, Alteryx Designer.
+    <li> Russian Language</li>
