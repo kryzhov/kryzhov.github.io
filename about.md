@@ -32,14 +32,15 @@ project stakeholders. </p>
 <p>Kirill's academic background is with MSc in Power Systems Engineering,
 cum laude MSc Financial Risk and Investment Analysis.</p>
 
-<h3>Key Skills</h3>
+<br>
 <ul class="skill-list">
+<h4>Key Skills</h4>
     <li> Financial Analysis: Investment, Risk, Portfolio Management
     <li> Data Analysis and Predictive analytics
     <li> Energy Commodities
     <li> Project Management
     <li> Technical Advisory in Energy, Power and Utilities
-    <li> Programming: Python, SQL, NoSQL, VBA,
+    <li> Programming: Python, SQL, NoSQL, VBA
     <li> Git, Ruby, Tableau</li>
-    <li> In progress: Machine Learning, IBM Watson, Alteryx Designer.
+    <li> In progress: Machine Learning, IBM Watson, Alteryx Designer
     <li> Russian Language</li>

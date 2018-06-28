@@ -3,9 +3,10 @@ layout: page
 title: Projects
 ---
 
-<h3> Projects</h3>
+
 
 <section class="list">
+    <h3> Financial Projects. 2016 - onwards</h3>
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
@@ -13,81 +14,99 @@ title: Projects
                 </a>
 
 
-                    Project Financing association<aside>October,17-March,18</aside>
+                    Report, Project Financing group <aside>May, 18</aside>
                     <p> Qualitative research for developments in Battery Energy
                     Storage Solutions. Comparative analysis of valuation approaches,
                     specifically focusing on synergy from co-locations with
-                    renewable energy generation.</p>
+                    renewable energy generation.</p><br>
 
-                    Contract for Confidential<aside>October,17-March,18</aside>
 
+                    Contract for Confidential<aside>Oct,17-March,18</aside>
                     <p> Support for backend development of the financial risks
                         management software, specifying approach to risk
                         modelling, contributing risk model library, descriptive
                         analytics on performance measurement and attribution.</p><br>
 
-
-                    Data Analysis for Udacity <aside>March,18</aside>
+                    Data Analysis, Udacity <aside>March, 18</aside>
                     <p> Research on co-dependence structure of Central Banks’s monetary
-                    policies with multiple economic indicators, such as investments,
-                    debt servicing cost, trade etc.</p><br>
+                    policies with multiple economic indicators, such as foreign investments,
+                    debt servicing cost, trade and other factors.</p><br>
 
-
-                    Course Project <aside>Sept,17</aside>
-                    <p> Developed risk-adjusted income-based valuation models for renewable power plants,
-                        encompassing multi-level forecasting, hedging, and transaction
-                        structuring including equity and debt structuring with conventional and
-                        participatory bonds.</p>
-
-                    <p> Developed structural PDE / stochastic jump-diffusion
-                        mean-reversion forecasting models WITH seasonality, storage and
-                        other latent exogenous factors specific for the
-                        commodities spot price. This was used for valuation
-                        of commodities supply, both for individual and portfolio
-                        of supply contracts, storage contracts,
-                        and construction of an optimised
-                        hedge programme using derivative contracts forwards,
-                        traditional and asian options.  </p>
-
+                    Portfolio Management, Spearhead Capital Partners <aside>May-Aug, 17</aside>
                     <p> Managed an ETF/FX portfolio on mandate on strategic and tactical levels.
                         Supported quantitative analysis including benchmark decomposition,
                         portfolio strategy, Black-Litterman and Treynor-Black and optimisation,
                         selection criteria, ex-ante and ex-post performance attribution and risk management.
-                        Crosschecks and advanced analysis performed with Bloomberg and TR Eikon.<p>
+                        Crosschecks and advanced analysis performed with Bloomberg and TR Eikon.</p><br>
 
+                    Capstone Project, UoS <aside>Sept, 17</aside>
+                    <p> Developed risk-adjusted income-based valuation models
+                    for renewable power plants, encompassing multi-level
+                    forecasting, hedging, and transaction structuring including
+                    equity and debt structuring with conventional and
+                    participatory bonds.</p><br>
+
+                    Commodity Project. Ørsted, former Dong Energy <aside>April,17</aside>
+                <p> Developed structural PDE / stochastic jump-diffusion
+                    mean-reversion forecasting models WITH seasonality, storage and
+                    other latent exogenous factors specific for the
+                    commodities spot price. This was used for valuation
+                    of commodities supply, both for individual and portfolio
+                    of supply contracts, storage contracts,
+                    and construction of an optimised
+                    hedge programme using derivative contracts forwards,
+                    traditional and asian options.  </p><br>
+
+                    Capstone Project, UoS <aside>March,17</aside>
                     <p> Created and Analysed Market Risk Models for Equity and ETF portfolios,
-                        administering data Management, Risk Factor Modelling, Back Testing,
-                        Scenario and push stress-tests. Produced Risk Mitigation Strategies.</p>
+                    administering data Management, Risk Factor Modelling, Back Testing,
+                    Scenario and push stress-tests. Produced Risk Mitigation Strategies.</p><br>
+
+                    {% endif %}
+                {% endfor %}
+            </section>
+
+<br>
+    
+            <section class="list">
+                <h3> Power and Utilities Projects. 2008-2016</h3>
+                {% for post in site.posts %}
+                    {% if post.projects %}
+                        <div class="item {% if post.star %}star{% endif %}">
+                            <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                            </a>
 
 
-                    <p> 132kV network refurbishment for NEPCO, Jordan
-                    Lead Engineer and Project manager for due diligence
-                    review of £6mil overhead lines refurbishment EPC contract.</p>
+                    132kV network refurbishment for NEPCO, Jordan <aside>Sept,15</aside>
+                    <p> Lead engineer and project manager for due diligence
+                    review of £6mil EPC contract for power grid refurbishment .
+                    </p><br>
 
+                    132kV V-Route for Iberdrola and Scottish Power
+                    <aside>May,15</aside>
+                    <p> Lead engineer and project manager for the V Route
+                        operational assessment. re-construction  design,
+                        As-built network modelling, civil, geotech and structural analysis,
+                        quantified risk analysis (QRA).
+                        The project comprised basics of environmental
+                        impact assessment and traffic management.</p><br>
 
-                    132kV V-Route condition assessment for Iberdrola and Scottish Power
-                    <p> Lead designer and project manager for the V Route condition assessment.
-                    Responsibilities include as-built and re-construction overhead line design,
-                    PL4 tower modelling, foundation analysis, geotechnical investigations and
-                    quantified risk analysis (QRA). The project comprises basics of environmental
-                    impact assessment and traffic management.</p>
-
-                    275kV Foyer-Knognagael, Farigaig substation tie-inn for SSE</h3>
+                    275kV Foyer-Knognagael, Farigaig substation tie-inn for SSE
                     <p>Lead Engineer and Project manager on all electrical, civil and structural design
                     documents and drawings provided by the CDM contractor. Responsibilities include
                     construction plans and schedule of works, stringing procedures in respect
                     of their compliance to internal SSE procedures and specifications,
-                    relevant industry codes and standards, and Health and Safety regulations.</p>
+                    relevant industry codes and standards, and Health and Safety regulations.</p><br>
 
                     Mid&North Wales Wind Farms connections scheme for Iberdrola SP
                     <p>Project manager and Lead Engineer for design and engineering support for
                     planning approval, a development consent order (DCO), development, routing
                     and design of 100km of new 132kV overhead line which includes trident,
-                    heavy duty wooden poles and L7 lattice towers.
+                    heavy duty wooden poles and L7 lattice towers.</p><br>
 
                     400kV Sellindge–Dungeness overhead line refurbishment, National Grid –
                     <p>Owners Engineer on a preliminary design review for line refurbishment
-                    and construction of new towers as part of National Grid’s TP500 processes.
+                    and construction of new towers as part of National Grid’s TP500 processes.</p><br>
 
                     220kV Akhaltsikhe-Batumi OHL, Georgia for AGL, GEG
                     <p>Lead engineer responsible for parametric and insulation coordination
@@ -95,32 +114,61 @@ title: Projects
                     specification and OHL parameters optimisation. Assisted in overhead line
                     routing study and developed scope of works, cost estimate, preliminary line
                     design and tender documentation for construction of new 110kV and 220kV lines
-                    from the newly constructed hydropower stations rated at 175MW to 300MW.
+                    from the newly constructed hydropower stations rated at 175MW to 300MW.</p><br>
 
                     220kV Devoll HydroPower project, Statkraft, Albania
-                    <p>As owner’s engineer for Statkraft for their Devoll HydroPower project in Albania, carried out a design review of 220kV overhead lines. Provided the design review and site support to the site team and issued design compliance certificates. Responsible for reviewing all design documentation provided by the appointed designer.
+                    <p>As owner’s engineer for Statkraft for their Devoll HydroPower
+                         project in Albania, carried out a design review of
+                         220kV overhead lines. Provided the design review and
+                         site support to the site team and issued design
+                         compliance certificates. Responsible for reviewing all
+                         design documentation provided by the appointed designer.</p><br>
 
                     275/400kV Route uprating for Barking Power Ltd
-                    <p>Desktop analysis of an identified 400kV cable and overhead route, with the studies focused on a constraining point on the crossing of the Thames Gateway Development site. Provided a feasibility analysis of the existing 275kV transmission line to determine if the circuit could be uprated to transport the entire generating capacity of Barking Power Station up to a maximum export capacity of 1.8 GW.  This involved upgrading existing conductors, voltage uprating and other possible options on potential route uprating.
+                    <p>Desktop analysis of an identified 400kV cable and
+                        overhead route, with the studies focused on a
+                        constraining point on the crossing of the Thames
+                        Gateway Development site. Provided a feasibility
+                        analysis of the existing 275kV transmission line to
+                        determine if the circuit could be uprated to transport
+                        the entire generating capacity of Barking Power Station
+                        up to a maximum export capacity of 1.8 GW.  This involved
+                        upgrading existing conductors, voltage uprating and other
+                        possible options on potential route uprating.</p><br>
 
                     Wylfa 400kV Cable crossing, UK National Grid
-                    <p>Project manager and cable engineer (mechanical and electrical aspects) for the feasibility study of a 400kV cable crossing through the Menai Strait and Britannia Bridge. Responsible for the conceptual design, options development, pre-engineering and completion of feasibility studies including cost benchmarking.
+                    <p>Project manager and cable engineer (mechanical and
+                        electrical aspects) for the feasibility study of a
+                        400kV cable crossing through the Menai Strait and
+                        Britannia Bridge. Responsible for the conceptual design,
+                         options development, pre-engineering and completion of
+                         feasibility studies including cost benchmarking.</p><br>
 
                     NorthConnect HVDC interconnector (Scotland–Norway) for North Connect
-                    <p>HVDC cable engineer for a proposed link between Norway and Scotland, UK. Consulting on mechanical and electrical engineering aspects for cable installations over 600km through the North Sea.
+                    <p>HVDC cable engineer for a proposed link between
+                        Norway and Scotland, UK. Consulting on mechanical and
+                        electrical engineering aspects for cable installations
+                        over 600km through the North Sea.</p><br>
 
                     Sliven 9 MW PV Plant project for Solar R1/EVN Bulgaria
-                    <p>Technical due diligence review for a proposed grid connection. Economic assessment Grid Connection Agreement and Power Purchase Agreement.
+                    <p>Technical due diligence review for a proposed grid
+                        connection. Economic assessment Grid Connection
+                        Agreement and Power Purchase Agreement.</p><br>
 
                     Ostar Kamak PV Plant Project for Solar EOOD / EVN Bulgaria
-                    <p>Technical due diligence review, including a grid connection offer, construction costs and mitigating grid connection challenges. Full compliance with utility company standards.
+                    <p>Technical due diligence review, including a
+                        grid connection offer, construction costs and mitigating
+                        grid connection challenges. Full compliance with
+                        utility company standards.</p><br>
 
                     UK Power Networks, Increased Capacity from Existing Overhead line routes
                     <p>Lead Engineer responsible for 33/132kV distribution lines feasibility,
-                    engineering studies and evaluation of design options.
+                    engineering studies and evaluation of design options.</p><br>
 
                     National Grid, UK, Overhead Lines Alliance West (EAW)
-                    <p>Technical assurance undertaken for 275 and 400kV overhead line refurbishment schemes carried out by EAW on behalf of National Grid.
+                    <p>Technical assurance undertaken for 275 and 400kV
+                        overhead line refurbishment schemes carried out
+                        by EAW on behalf of National Grid.</p><br>
 
                     FEED and Electricity Alliance West for National Grid
                     <p>Design tasks on numerous schemes involving substation
@@ -131,28 +179,58 @@ title: Projects
                     ‒	Alverdiscott-Indian Queens
                     ‒	Stalybridge to Woodhead
                     ‒	Ryhall FEED
-                    ‒	Dudgeon Offshore Wind Farm connection FEED </p>
+                    ‒	Dudgeon Offshore Wind Farm connection FEED </p><br>
 
                     Treuddyn-Trawsfynydd and Harker-Hutton-Quernmore, 400kV Reconductoring Schemes for National Grid
-                    <p>Both schemes were carried out within the Electricity Alliance West framework agreement. The scope was to replace conductors, earthwires, insulators and fittings on the routes. The structural capacity of the towers and foundations were assessed.
+                    <p>Both schemes were carried out within the Electricity
+                        Alliance West framework agreement. The scope was to
+                         replace conductors, earthwires, insulators and fittings
+                         on the routes. The structural capacity of the towers
+                         and foundations were assessed.</p><br>
 
                     Sarawak Energy Berhad 500kV Backbone Project
-                    <p>Tower spotting, line optimisation, profiling for 192km of 500kV and 52km of 275kV overhead line using PLS CADD. Preparation of technical specifications for tender documentation: conductors, OPGW and network equipment, live monitoring equipment, insulation coordination. Electro-magnetic studies and investigations. Supporting documentation: BoQ, schedules and EPC tendering for 500kV Similajau – Tada Overhead Transmission line.
+                    <p>Tower spotting, line optimisation, profiling for
+                        192km of 500kV and 52km of 275kV overhead line using
+                        PLS CADD. Preparation of technical specifications for
+                        tender documentation: conductors, OPGW and network
+                        equipment, live monitoring equipment, insulation
+                        coordination. Electro-magnetic studies and investigations.
+                        Supporting documentation: BoQ, schedules and EPC
+                        tendering for 500kV Similajau – Tada Overhead
+                        Transmission line.</p><br>
 
                     Transmission line reconstruction and design development for VSEP, Vologda, Russia.
-                    <p>30km 110kV, double circuit overhead line Centralnaya 1,2. Part of the Vologda Gas Power Plant extension and network accession project.
+                    <p>30km 110kV, double circuit overhead line Centralnaya 1,2.
+                         Part of the Vologda Gas Power Plant extension and
+                         network accession project.</p><br>
 
-                    Transmission line reconstruction and on-site monitoring for Kuzbassenergo, Russia.
-                    <p>Assessment of feasibility (design and constructability) of 25km 110kV, double circuit overhead line ZSMK-Kuzneckaya. Development of project design documents under joint implementation requirements.
+                    Transmission line reconstruction and on-site monitoring
+                    for Kuzbassenergo, Russia.
+                    <p>Assessment of feasibility (design and constructability)
+                        of 25km 110kV, double circuit overhead line ZSMK-Kuzneckaya.
+                        Development of project design documents under joint
+                        implementation requirements.</p><br>
 
                     Reconstruction project and construction monitoring for Irkutskenergo, Russia.
-                    <p>The option appraisal looked at the positive and negative impacts of replacing the existing 35km 110kV line IGES-Kirovskaya. Alterations studies. Development of project design documents under joint implementation requirements. On-site monitoring and as-designed compliance.
+                    <p>The option appraisal looked at the positive and
+                        negative impacts of replacing the existing 35km 110kV line
+                         IGES-Kirovskaya. Alterations studies. Development of
+                         project design documents under joint implementation
+                         requirements. On-site monitoring and as-designed
+                         compliance.</p><br>
 
                     Reconstruction project, Confidential client, Kasakhstan.
-                    <p>Assessment of feasibility and design of 30km 110kV, double circuit overhead line 149A, CAPEX/OPEX analysis. Development of project design documents under joint implementation requirements.
+                    <p>Assessment of feasibility and design of 30km 110kV,
+                        double circuit overhead line 149A, CAPEX/OPEX analysis.
+                         Development of project design documents under
+                         joint implementation requirements.</p><br>
 
                     Reconstruction project and construction monitoring. Confidential client, Russia.
-                    <p>Assessment of feasibility of 15km 110kV, double circuit overhead line TTEC-Granichnaya/TEC13-Dolina. Preparing material specifications, CAPEX/OPEX analysis, technical studies for refurbishment in sensitive areas, bill of quantities and cost estimates.
+                    <p>Assessment of feasibility of 15km 110kV, double
+                        circuit overhead line TTEC-Granichnaya/TEC13-Dolina.
+                        Preparing material specifications, CAPEX/OPEX analysis,
+                        technical studies for refurbishment in sensitive areas,
+                        bill of quantities and cost estimates.</p><br>
 
                     Reconstruction project and for Permenergo, Russia.
                     <p>Assessment of feasibility (design and constructability)
