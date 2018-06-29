@@ -1,8 +1,4 @@
-<p align="center">
-    <h2 align="center">Jekyll Template.</h2>
-</p>
-
-<p align="center">This is a simple and minimalist template for Jekyll.</p>
+<p align="center"><h2 align="center">Created using Jekyll.</h2></p>
 
 ***
 
@@ -37,5 +33,4 @@ To test locally on your machine, do the following steps:
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ---
-
 [MIT](http://mit-license.org/) License ©

@@ -1,7 +1,7 @@
-# FAQ:
+# TEMPLATE FAQ:
 
 - Article: How to Install Jekyll - by [Arti Annaswamy](https://github.com/aannasw).
-- [Part 1](http://artiannaswamy.com/build-a-github-blog-part-1); and 
+- [Part 1](http://artiannaswamy.com/build-a-github-blog-part-1); and
 - [Part 2](http://artiannaswamy.com/build-a-github-blog-part-2)
 - [Emojis in the projects list?](https://github.com/sergiokopplin/indigo/issues/72)
 - [Nokogiri dependencie problems?](https://github.com/sergiokopplin/indigo/issues/81)

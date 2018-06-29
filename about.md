@@ -6,31 +6,30 @@ title: About
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <br>
-<center><h4>{{ site.name }}. Summary</h4> </center>
+<center><h4>{{ site.name }}</h4> </center>
 
-<p> Quantitative Consultant specialising in Financial Analysis and
-Risk Management, including business financial modelling, data and
+<p> Quantitative consultant specialising in Financial Analysis and
+Risk Management, including financial and business modelling, data and
 predictive analytics. </p>
 
-<p> Being part of abc technologies, Kirill has developed project concepts,
+<p> Being part of abc technologies, Kirill develops project concepts,
 assemble and lead project teams of data scientist, financial engineers and
-risk analysts to deliver tailored integral
-<a class="link" href="{{ site.url }}/projects">solutions</a> for company clients.
+risk analysts to execute and deliver tailored integral
+<a class="link" href="{{ site.url }}/projects">solutions</a> for abc's clients.
 
-<p>Before joining <a class="link" href='htrp://abctec.io'>abctec</a>,
-Kirill worked as a consultant and technical advisor on a broad range of
-<a class="link" href="{{ site.url }}/projects">projects</a>
+<p>Before <a class="link" href='htrp://abctec.io'>abc technologies</a>,
+Kirill has worked as a consultant and technical advisor on a broad range of
+<a class="link" href="{{ site.url }}/projects">assignments</a>
 within Energy, Power and Utilities practice, including
-strategy and operational improvement, market and technology analysis,
-asset management, and due diligence. </p>
+strategy, asset management, market and technology analysis, and due diligence. </p>
 
-<p>As a project management, Kirill has supported projects across
+<p>As a project management, Kirill supported projects across
 UK, Europe, SE Asia, and Middle East,
 working collaboratively with multi-disciplinary teams and key
 project stakeholders. </p>
 
-<p>Kirill's academic background is with MSc in Power Systems Engineering,
-cum laude MSc Financial Risk and Investment Analysis.</p>
+<p>Kirill's academic background is in MSc Power Systems Engineering and
+cum laude MSc Financial Risk and Investment Analysis from University of Sussex.</p>
 
 <br>
 <ul class="skill-list">
@@ -39,7 +38,7 @@ cum laude MSc Financial Risk and Investment Analysis.</p>
     <li> Data Analysis and Predictive analytics
     <li> Energy Commodities
     <li> Project Management
-    <li> Technical Advisory in Energy, Power and Utilities
+    <li> Asset Management and Technical Advisory in Energy, Power and Utilities
     <li> Programming: Python, SQL, NoSQL, VBA
     <li> Git, Ruby, Tableau</li>
     <li> In progress: Machine Learning, IBM Watson, Alteryx Designer
