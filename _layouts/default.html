@@ -5,7 +5,7 @@ layout: compress
 <html lang="en">
 <head>
 
-    {% if site.analytics-google %}
+    {% if site.analytics-google != 0 %}
         {% include analytics-google.html %}
     {% endif %}
 
@@ -17,7 +17,7 @@ layout: compress
     <meta name=author content="{{ site.name }}">
 
     {% seo %}
-    
+
     {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
