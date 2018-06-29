@@ -19,10 +19,10 @@ url: http://kryzhov.github.io
 
 permalink: /:title/
 
-markdown: kramdown
-highlighter: rouge
+#markdown: kramdown
+#highlighter: rouge
 
-# Google analytics: 'code'
+Google analytics: 'UA-121633993-1'
 
 # Futureproof for piwik tracking
 # analytics-piwik-url: 'piwik.my-host.com'
