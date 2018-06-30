@@ -29,9 +29,11 @@
         {% endif %}
 
         {% if site.personal == true %}
+            {% if page.title != "Other Interests" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/personal/">Other</a>
                 </li>
+            {% endif %}
         {% endif %}
 
         {% if site.blog == true %}
