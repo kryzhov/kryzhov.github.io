@@ -2,48 +2,38 @@
 layout: simple
 title: Other Interests
 ---
-<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
 
 <br>
 <h5></h5>
-<h6>PS This page is synced through Ruby. </h6>
+<h6>PS This page is synced with javascript. </h6>
 <ul>
 
-labl
+Update 1.5 <br>
 
-    <script src='http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.js'
-    type="text/javascript" language="javascript">
+<!-- other links-->
+<li><a href='https://www.komoot.com/user/534897990910'>Komoot</a></li>
+<li><a href='http://brightonexplorers.org/'>Brighton explorers club</a></li>
+<br>
 
-    $.get( "https://app.simplenote.com/publish/dg55RF", function( data, status )
+<!-- test if javascript / jQuery is loaded-->
+<script language="JavaScript" type="text/javascript" >
+    document.write (" &nbsp; JavaScript &nbsp; <b>IS WORKING</b> &nbsp; in your web browser &nbsp; <br>" );
+    document.write ("Your web browser supports JavaScript version " + jsvers + "<br>") ;
+    if (jQuery) {alert("jquery is loaded. Test 5");} else { alert("Not loaded");}
+</script>
 
-    {
+<noscript> &nbsp; JavaScript <b>IS NOT WORKING</b> in your web browser &nbsp; </noscript>
+<noscript>
+    Either your web browser is not capable of supporting JavaScript at all &nbsp; -or-<br>
+    the use of JavaScript has been purposely disabled.<br>
+</noscript>
 
-      alert( "Load was performed." );
-    });
-    </script>
-
-    <li><a href='https://www.komoot.com/user/534897990910'>Komoot</a>
-    <li><a href='http://brightonexplorers.org/'>Brighton explorers club</a>
-
-    <script type="text/javascript">
-        $(document).ready(function(){
-
-         $('#button').click(function(){
-           $('#txt1').val("Button clicked");
-         });
-        });
-    </script>
-
-    <script type="text/javascript">
-    window.onload = function() {
-    if (window.jQuery) {
-        // jQuery is loaded
-        alert("Yeah!");
-    } else {
-        // jQuery is not loaded
-        alert("Doesn't Work");
-    }
-    }
-    </script>
-
+<!-- parsing external HTML and loading a section on a page -->
+<script type="text/javascript" language="JavaScript">
+    $.get( "http://app.simplenote.com/publish/dg55RF", function( data, status ),"html")
+    {alert( "Load was performed." );}
+    document.write (data) ;
+    document.write ("something") ;
+</script>
 </ul>
