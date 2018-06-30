@@ -2,12 +2,36 @@
 layout: simple
 title: Other Interests
 ---
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
 <br>
 <h5></h5>
-<h6>PS This page is synced to my ongoing notes through Ruby plugin. </h6>
+<h6>PS This page is synced to my ongoing notes with Ruby. </h6>
 
 <ul>
     <li><a href='https://app.simplenote.com/publish/dg55RF'>My read and watched list</a>
+    <li><a href='https://www.komoot.com/user/534897990910'>Komoot</a>
     <li><a href='http://brightonexplorers.org/'>Brighton explorers club</a>
+
+
+        <script>
+        var $log = $( "#log" ),
+          str = "hello, <b>my name is</b> jQuery.",
+          html = $.parseHTML( str ),
+          nodeNames = [];
+
+        // Append the parsed HTML
+        $log.append( html );
+
+        // Gather the parsed HTML's node names
+        $.each( html, function( i, el ) {
+          nodeNames[ i ] = "<li>" + el.nodeName + "</li>";
+        });
+
+        // Insert the node names
+        $log.append( "<h3>Node Names:</h3>" );
+        $( "<ol></ol>" )
+          .append( nodeNames.join( "" ) )
+          .appendTo( $log );
+        </script>
 </ul>
