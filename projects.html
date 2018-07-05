@@ -3,213 +3,199 @@ layout: page
 title: Projects
 ---
 
-
 <section class="list">
-    <h3> Current projects. 2016 - onwards</h3>
+    <h3> Current projects, 2016 and onwards</h3><br>
+
     {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item {% if post.star %}star{% endif %}">
-                    Market Analysis, Project Financing Group <aside>May-June, 18</aside>
-                    <p> Qualitative research for developments in Battery Energy
-                    Storage Solutions, specifically focusing on synergy
-                    from co-locations with renewable energy generation.
-                    Comparative analysis of valuation methods, LCOS and LCOE.</p><br>
-
-                    Internship, Confidential<aside>Oct,17-March,18</aside>
-                    <p> Support for the backend development of the financial risks
-                    management software, specifying approach to risk modelling,
-                    contributing risk model library, descriptive analytics on
-                    liquidity risks, stress-tests success,
-                    performance measurement and attribution.</p><br>
-
-                    Data Analysis, Udacity <aside>March, 18</aside>
-                    <p> Research on co-dependence structure of Central Banks’s monetary
-                    policies with multiple economic indicators, such as foreign investments,
-                    debt servicing cost, trade and other factors.</p><br>
-
-                    Portfolio Management, Spearhead Capital Partners <aside>May-Aug, 17</aside>
-                    <p> Managed an ETF/FX portfolio on mandate on strategic and tactical levels.
-                    Supported quantitative analysis including benchmark decomposition,
-                    portfolio strategy, Black-Litterman and Treynor-Black and optimisation,
-                    selection criteria, ex-ante and ex-post performance attribution and risk management.
-                    Crosschecks and advanced analysis performed with Bloomberg and TR Eikon.</p><br>
-
-                    Capstone Project, UoS <aside>Sept, 17</aside>
-                    <p> Developed risk-adjusted income-based valuation models
-                    for renewable power plants, encompassing non-parametric methods
-                    in multi-level wind and energy generation forecasting,
-                    risk-based derivatives hedging, and transaction structuring
-                    including equity and debt structuring with conventional and
-                    participatory bonds.</p><br>
-
-                    Commodity Supply Contracts Valuation, Ørsted / Dong Energy <aside>April,17</aside>
-                <p> Developed structural PDE / stochastic jump-diffusion
-                    mean-reversion forecasting models WITH seasonality, storage and
-                    other latent exogenous factors specific for the
-                    commodities spot price. This was used for valuation
-                    of commodities supply, both for individual and portfolio
-                    of supply contracts, storage contracts,
-                    and construction of an optimised
-                    hedge programme using derivative contracts forwards,
-                    traditional and asian options.  </p><br>
-
-                    Capstone Project, UoS <aside>March,17</aside>
-                    <p> Created and Analysed Market Risk Models for Equity and ETF portfolios,
-                    administering data Management, Risk Factor Modelling, Back Testing,
-                    Scenario and push stress-tests. Produced Risk Mitigation Strategies.</p><br>
-
-                    {% endif %}
-                {% endfor %}
-            </section>
-            <br>
-
-            <section class="list">
-                <h3> Selected Power and Utilities Projects. 2008-2016</h3>
-                {% for post in site.posts %}
-                    {% if post.projects %}
-                        <div class="item {% if post.star %}star{% endif %}">
-                            <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                            </a>
-
-                    132kV and 275kV network due-dillignece / technical assurance for SSE
-                    <aside>2014-2016</aside>
-                    <p>Owners Engineer and due dillignce / technical assurance
-                    for 132kV-275kV distribution network reconstruction,
-                    40km onshore wind power plant connection and new transmission
-                    connections for: Foyer-Knognagael, Farigaig tie-inn.
-                    Beauly-Knocknagael-Farr-Tomatin. </p><br>
-
-                    Contract mediation and due dilligence for NEPCO, Jordan <aside>2015-2016</aside>
-                    <p> Lead engineer and project manager for due diligence
-                     of £6mil EPC contract for 132kV network refurbishment in Jordan.
-                    </p><br>
-
-                    132kV V-Route for Iberdrola and Scottish Power
-                    <p> Lead engineer and project manager for the 132kV network
-                    operational assessment. Conceptual approach, finite element analysis in
-                    civil, geotech and structural domains. Quantified
-                    risk analysis (QRA) for security of supply challanging investment decision.
-                    </p><br>
-
-                    Due dillignce for Solar R1/EVN Bulgaria
-                    <p>Complete due dilligence of 9MW Sliven PV Plant.
-                    Power Purchase Agreement (PPA) and  economic assessment for grid connection.</p><br>
-
-                    Due dilligence for Solar EOOD / EVN Bulgaria
-                    <p>Technical due diligence, including grid connection offer,
-                    construction costs and mitigating grid connection challenges
-                    for Ostar Kamak PV Plant Project.</p><br>
-
-                    Increased Network Capacity Study for UK Power Networks.
-                    <p>Lead Engineer for major network capacity study. Concept
-                    study, market and technology analysis for possible options
-                    (Flexible Distributed Generation,
-                    Demand Side Respone, Dynamic Line Rating, Active Line Management),
-                    strategy and operational improvement.
-                    Responsible for 33/132kV distribution lines feasibility,
-                    engineering studies and evaluation of design options.
-                    </p><br>
-
-                    Cable optioneering study for National Grid, UK
-                    <p>Project manager and cable engineer for the feasibility
-                    study of a 400kV Wylfa connection and cable crossing across
-                    the Menai Strait Britannia Bridge.
-                    Concept development for 15 various options, following options
-                    development, desktop engineering and cost benchmarking.</p><br>
-
-                    Mid&North Wales Wind Farms connections scheme for Iberdrola SP
-                    <p>Project manager and Lead Engineer for concept design,
-                    development and engineering support for 100km of 132kV
-                    onshore power plant connections. Concept studies,
-                    routing study optimisation, utility representation
-                    with major stakeholders, municipalities and general public, and
-                    bespoke design of over 100km 132kV overhead lines. </p><br>
-
-                    275/400kV Route uprating for Barking Power Ltd
-                    <p>Desktop analysis for a enabling 400kV/1.8GW link from
-                    a new power generation unit of Barking Power Station.
-                    Feasibility analysis of various connection options.</p><br>
-
-                    220kV network concept for AGL and GEG, Georgia
-                    <p>Lead electrical engineer for the new connection to
-                    several hydropower stations in Georgia. Concept development,
-                    system integration analysis, system coordination, parametric study,
-                    lightning performance, and route optimisation.
-                    Support for cost estimate and advisoty for EPC tendering. </p><br>
-
-                    220kV network accession project for Statkraft
-                    <p>Owners engineer for Statkraft for their Devoll HydroPower
-                    project in Albania, carried out a due dilligence review of
-                    new 220kV transmission network.</p><br>
-
-                    NorthConnect HVDC interconnector (Scotland–Norway) for North Connect
-                    <p>HVDC cable engineer for a proposed link between Norway
-                    and Scotland, UK. Mechanical and electrical engineering
-                    for cable installations over 600km through the North Sea.</p><br>
-
-                    Asset Management for and on behalf of National Grid, UK
-                    <p>Led and executed asset management framework for National grid
-                    275kV and 400kV transmission network. Led technical assurance
-                    on over 20 projects in a course of five year period
-                    within Electricity Alliance West (EAW).</p><br>
-
-                    275/400kV Transmission network design for National Grid, UK
-                    <p>Delivered multiple projects on substation and overhead line works,
-                    uprating and re-conductoring, routing study, repositioning,
-                    finite element analysis, structural capacity and utilisation reports.
-
-                    Scheme development:
-                    -   Richborough - Canterbury
-                    ‒	Alverdiscott-Indian Queens
-                    ‒	Stalybridge to Woodhead
-                    -   Treuddyn-Trawsfynydd
-                    -   Harker-Hutton-Quernmore
-                    -   400kV Sellindge–Dungeness FEED
-                    ‒	Ryhall FEED
-                    ‒	Dudgeon Offshore Wind Farm connection FEED</p><br>
-
-                    500kV network design for Sarawak Energy Berhad, Malasiya
-                    <p>Complete network design and system coorination and integration:
-                    Routing study, parameters optimisation, profiling for
-                    300km of 500kV and 275kV transmission network.
-                    Complete package and support for  500kV Similajau–Tada EPC tender:
-                    design, market analysis, selection of network equipment, live monitoring etc.</p><br>
-
-                    110kV network development for VSEP, Russia
-                    <p>External consultant, technology advisor for the Vologda
-                    Gas Power Plant extension and network accession project.</p><br>
-
-                    110kV network development, Owners Engineer for Kuzbassenergo, Russia
-                    <p>Feasibility study of the existing transmission network 110kV
-                    ZSMK-Kuzneckaya, including concept studies, investment analysis,
-                    development, design.</p><br>
-
-                    110kV network development for Irkutskenergo, Russia
-                    <p>External consultant, technology advisor.
-                    Complete network appraisal: system study, finite element analysis,
-                    as-builts for 35km 110kV IGES-Kirovskaya. Alterations studies.
-                    Project development. On-site monitoring, compliance and
-                    commisioining.</p><br>
-
-                    Reconstruction project for confidential client, Kasakhstan.
-                    <p>Optioneering, CAPEX/OPEX analysis and Feasibility study
-                    for the 30km 110kV DC connection on 149A. Development of
-                    project design documents.</p><br>
-
-                    Reconstruction project and construction monitoring for Confidential client, Russia.
-                    <p>CAPEX/OPEX analysis, feasibility assessment of 25km 110kV DC
-                    distribution lines TTEC-Granichnaya and TEC13-Dolina.
-                    Technical studies for refurbishment in sensitive areas,
-                    specifications, BoQ and cost estimates.</p><br>
-
-                    Reconstruction project for Permenergo, Russia.
-                    <p>External consultant, technology advisor for new power plant connection.
-                    Network appraisal: system study, feasibility assessment
-                    of an existing ine S/S Perm-TEC6.
-                    Project development, design, cost surveys and technical studies.
-                    Developed system tests to investigate potential failures
-                    due to impropriate installation procedures.</p>
-
+        {% if post.projects and post.hidden != true %}
+            {% include blog-post.html %}<br>
         {% endif %}
     {% endfor %}
+
+    Internship, Confidential<aside>Oct,17-March,18</aside>
+    <p> Support for the backend development of the financial risks
+    management software, specifying approach to risk modelling,
+    contributing risk model library, descriptive analytics on
+    liquidity risks, stress-tests success,
+    performance measurement and attribution.</p><br>
+
+    Data Analysis, Udacity <aside>March, 18</aside>
+    <p> Research on co-dependence structure of Central Banks’s monetary
+    policies with multiple economic indicators, such as foreign investments,
+    debt servicing cost, trade and other factors.</p><br>
+
+    Portfolio Management, Spearhead Capital Partners <aside>May-Aug, 17</aside>
+    <p> Managed an ETF/FX portfolio on mandate on strategic and tactical levels.
+    Supported quantitative analysis including benchmark decomposition,
+    portfolio strategy, Black-Litterman and Treynor-Black and optimisation,
+    selection criteria, ex-ante and ex-post performance attribution and risk management.
+    Crosschecks and advanced analysis performed with Bloomberg and TR Eikon.</p><br>
+
+    Capstone Project, UoS <aside>Sept, 17</aside>
+    <p> Developed risk-adjusted income-based valuation models
+    for renewable power plants, encompassing non-parametric methods
+    in multi-level wind and energy generation forecasting,
+    risk-based derivatives hedging, and transaction structuring
+    including equity and debt structuring with conventional and
+    participatory bonds.</p><br>
+
+    Commodity Supply Contracts Valuation, Ørsted / Dong Energy <aside>April,17</aside>
+    <p> Developed structural PDE / stochastic jump-diffusion
+    mean-reversion forecasting models WITH seasonality, storage and
+    other latent exogenous factors specific for the
+    commodities spot price. This was used for valuation
+    of commodities supply, both for individual and portfolio
+    of supply contracts, storage contracts,
+    and construction of an optimised
+    hedge programme using derivative contracts forwards,
+    traditional and asian options.  </p><br>
+
+    Capstone Project, UoS <aside>March,17</aside>
+    <p> Created and Analysed Market Risk Models for Equity and ETF portfolios,
+    administering data Management, Risk Factor Modelling, Back Testing,
+    Scenario and push stress-tests. Produced Risk Mitigation Strategies.</p>
+
+
+    <div class="breaker"></div>
+
+    <h3> Selected projects for Power and Utilities, 2008-2016</h3><br>
+
+    132kV and 275kV network technical assurance for SSE
+    <aside>2014-2016</aside>
+    <p>Owners Engineer and due dillignce / technical assurance
+    for 132kV-275kV distribution network reconstruction,
+    40km onshore wind power plant connection and new transmission
+    connections for: Foyer-Knognagael, Farigaig tie-inn.
+    Beauly-Knocknagael-Farr-Tomatin. </p><br>
+
+    Contract mediation and due dilligence for NEPCO, Jordan <aside>2015-2016</aside>
+    <p> Lead engineer and project manager for due diligence
+        of £6mil EPC contract for 132kV network refurbishment in Jordan.
+    </p><br>
+
+    132kV V-Route for Iberdrola and Scottish Power
+    <p> Lead engineer and project manager for the 132kV network
+    operational assessment. Conceptual approach, finite element analysis in
+    civil, geotech and structural domains. Quantified
+    risk analysis (QRA) for security of supply challanging investment decision.
+    </p><br>
+
+    Due dillignce for Solar R1/EVN Bulgaria
+    <p>Complete due dilligence of 9MW Sliven PV Plant.
+    Power Purchase Agreement (PPA) and  economic assessment for grid connection.</p><br>
+
+    Due dilligence for Solar EOOD / EVN Bulgaria
+    <p>Technical due diligence, including grid connection offer,
+    construction costs and mitigating grid connection challenges
+    for Ostar Kamak PV Plant Project.</p><br>
+
+    Increased Network Capacity Study for UK Power Networks.
+    <p>Lead Engineer for major network capacity study. Concept
+    study, market and technology analysis for possible options
+    (Flexible Distributed Generation,
+    Demand Side Respone, Dynamic Line Rating, Active Line Management),
+    strategy and operational improvement.
+    Responsible for 33/132kV distribution lines feasibility,
+    engineering studies and evaluation of design options.
+    </p><br>
+
+    Cable optioneering study for National Grid, UK
+    <p>Project manager and cable engineer for the feasibility
+    study of a 400kV Wylfa connection and cable crossing across
+    the Menai Strait Britannia Bridge.
+    Concept development for 15 various options, following options
+    development, desktop engineering and cost benchmarking.</p><br>
+
+    Mid&North Wales Wind Farms connections scheme for Iberdrola SP
+    <p>Project manager and Lead Engineer for concept design,
+    development and engineering support for 100km of 132kV
+    onshore power plant connections. Concept studies,
+    routing study optimisation, utility representation
+    with major stakeholders, municipalities and general public, and
+    bespoke design of over 100km 132kV overhead lines. </p><br>
+
+    275/400kV Route uprating for Barking Power Ltd
+    <p>Desktop analysis for a enabling 400kV/1.8GW link from
+    a new power generation unit of Barking Power Station.
+    Feasibility analysis of various connection options.</p><br>
+
+    220kV network concept for AGL and GEG, Georgia
+    <p>Lead electrical engineer for the new connection to
+    several hydropower stations in Georgia. Concept development,
+    system integration analysis, system coordination, parametric study,
+    lightning performance, and route optimisation.
+    Support for cost estimate and advisoty for EPC tendering. </p><br>
+
+    220kV network accession project for Statkraft
+    <p>Owners engineer for Statkraft for their Devoll HydroPower
+    project in Albania, carried out a due dilligence review of
+    new 220kV transmission network.</p><br>
+
+    NorthConnect HVDC interconnector (Scotland–Norway) for North Connect
+    <p>HVDC cable engineer for a proposed link between Norway
+    and Scotland, UK. Mechanical and electrical engineering
+    for cable installations over 600km through the North Sea.</p><br>
+
+    Asset Management for and on behalf of National Grid, UK
+    <p>Led and executed asset management framework for National grid
+    275kV and 400kV transmission network. Led technical assurance
+    on over 20 projects in a course of five year period
+    within Electricity Alliance West (EAW).</p><br>
+
+    275/400kV Transmission network design for National Grid, UK
+    <p>Delivered multiple projects on substation and overhead line works,
+    uprating and re-conductoring, routing study, repositioning,
+    finite element analysis, structural capacity and utilisation reports.
+    Projects developed include:<ul style="list-style-type:square">
+    <li>Richborough - Canterbury</li>
+    <li>Alverdiscott-Indian Queens</li>
+    <li>Stalybridge to Woodhead</li>
+    <li>Treuddyn-Trawsfynydd</li>
+    <li>275kV Harker-Hutton-Quernmore</li>
+    <li>400kV Sellindge–Dungeness FEED</li>
+    <li>Ryhall FEED</li>
+    <li>Dudgeon Offshore Wind Farm connection FEED</li>
+    </ul></p><br>
+    
+    500kV network design for Sarawak Energy Berhad, Malasiya
+    <p>Complete network design and system coorination and integration:
+    Routing study, parameters optimisation, profiling for
+    300km of 500kV and 275kV transmission network.
+    Complete package and support for  500kV Similajau–Tada EPC tender:
+    design, market analysis, selection of network equipment, live monitoring etc.</p><br>
+
+    110kV network development for VSEP, Russia
+    <p>External consultant, technology advisor for the Vologda
+    Gas Power Plant extension and network accession project.</p><br>
+
+    110kV network development, Owners Engineer for Kuzbassenergo, Russia
+    <p>Feasibility study of the existing transmission network 110kV
+    ZSMK-Kuzneckaya, including concept studies, investment analysis,
+    development, design.</p><br>
+
+    110kV network development for Irkutskenergo, Russia
+    <p>External consultant, technology advisor.
+    Complete network appraisal: system study, finite element analysis,
+    as-builts for 35km 110kV IGES-Kirovskaya. Alterations studies.
+    Project development. On-site monitoring, compliance and
+    commisioining.</p><br>
+
+    Reconstruction project for confidential client, Kasakhstan.
+    <p>Optioneering, CAPEX/OPEX analysis and Feasibility study
+    for the 30km 110kV DC connection on 149A. Development of
+    project design documents.</p><br>
+
+    Reconstruction project and construction monitoring for Confidential client, Russia.
+    <p>CAPEX/OPEX analysis, feasibility assessment of 25km 110kV DC
+    distribution lines TTEC-Granichnaya and TEC13-Dolina.
+    Technical studies for refurbishment in sensitive areas,
+    specifications, BoQ and cost estimates.</p><br>
+
+    Reconstruction project for Permenergo, Russia.
+    <p>External consultant, technology advisor for new power plant connection.
+    Network appraisal: system study, feasibility assessment
+    of an existing ine S/S Perm-TEC6.
+    Project development, design, cost surveys and technical studies.
+    Developed system tests to investigate potential failures
+    due to impropriate installation procedures.</p>
 </section>

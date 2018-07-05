@@ -39,7 +39,7 @@ cum laude MSc Financial Risk and Investment Analysis from University of Sussex.<
     <li> Energy Commodities
     <li> Project Management
     <li> Asset Management and Technical Advisory in Energy, Power and Utilities
-    <li> Programming: Python, SQL, NoSQL, VBA
-    <li> Git, Ruby, Tableau</li>
-    <li> In progress: Machine Learning, IBM Watson, Alteryx Designer
+    <li> Programming: Python, SQL, NoSQL MongoDB, VBA
+    <li> Git, Tableau, </li>
+    <li> In progress: ML, IBM Watson, 
     <li> Russian Language</li>
