@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-05T13:46:22+01:00</updated><id>http://localhost:4000/</id><title type="html">Kirill Ryzhov</title><subtitle>Quantitative Consulting</subtitle><entry><title type="html">Battery Storage Market Ananlysis, PF Group</title><link href="http://localhost:4000/BatterySolutions/" rel="alternate" type="text/html" title="Battery Storage Market Ananlysis, PF Group" /><published>2018-05-01T00:00:00+01:00</published><updated>2018-05-01T00:00:00+01:00</updated><id>http://localhost:4000/BatterySolutions</id><content type="html" xml:base="http://localhost:4000/BatterySolutions/">- Client: Private Project Financing Group 
-- Completed: May-July, 2018
-- Task: Qualitative research on Battery Energy Storage Solutions market.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-05T14:01:22+01:00</updated><id>http://localhost:4000/</id><title type="html">Kirill Ryzhov</title><subtitle>Quantitative Consulting</subtitle><entry><title type="html">Battery Storage Market Ananlysis, PPF Group</title><link href="http://localhost:4000/BatterySolutions/" rel="alternate" type="text/html" title="Battery Storage Market Ananlysis, PPF Group" /><published>2018-05-01T00:00:00+01:00</published><updated>2018-05-01T00:00:00+01:00</updated><id>http://localhost:4000/BatterySolutions</id><content type="html" xml:base="http://localhost:4000/BatterySolutions/">&lt;ul&gt;
+  &lt;li&gt;Client: Private Project Financing Group&lt;/li&gt;
+  &lt;li&gt;Completed: May-July, 2018&lt;/li&gt;
+  &lt;li&gt;Task: Qualitative research on Battery Energy Storage Solutions market.&lt;/li&gt;
+&lt;/ul&gt;
 
-Qualitattive market analysis, specifically focusing on Behind-The-Meter sector and synergy from co-locations with renewable energy generation. Comparative analysis of valuation methods for developers, dealing with medium sized creditors.
+&lt;p&gt;Qualitattive market analysis, specifically focusing on Behind-The-Meter segment and synergy effect from co-locations with renewable energy generation. Comparative analysis of valuation methods for developers, dealing with medium sized creditors.&lt;/p&gt;
 
 &lt;!-- ![Screenshot](url.com/pic.jpg) --&gt;
 
-What have been completed:
-- Technology review
-- Hardware and Software suppliers: brief comparison, market share estimates
-- Three European and Asian markets, tech permissive scenarios 
-- Application optimisations and success rate of forward forcasting 
-- Financial valuation models
-- BTM, Synergy effect from colocation with PV plants</content><author><name>kirill ryzhov</name></author><category term="projects" /><category term="case studies" /><summary type="html">Client: Private Project Financing Group Completed: May-July, 2018 Task: Qualitative research on Battery Energy Storage Solutions market.</summary></entry><entry><title type="html">Case Study Template</title><link href="http://localhost:4000/example/" rel="alternate" type="text/html" title="Case Study Template" /><published>2018-05-01T00:00:00+01:00</published><updated>2018-05-01T00:00:00+01:00</updated><id>http://localhost:4000/example</id><content type="html" xml:base="http://localhost:4000/example/">![Screenshot](url.com/pic.jpg)
+&lt;p&gt;What have been completed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Technology review&lt;/li&gt;
+  &lt;li&gt;Hardware and Software suppliers: brief comparison, market share estimates&lt;/li&gt;
+  &lt;li&gt;Three European and Asian markets, tech permissive scenarios&lt;/li&gt;
+  &lt;li&gt;Application optimisations and success rate of forward forcasting&lt;/li&gt;
+  &lt;li&gt;Financial valuation models&lt;/li&gt;
+  &lt;li&gt;BTM, Synergy effect from colocation with PV plants&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>kirill ryzhov</name></author><category term="projects" /><category term="case studies" /><summary type="html">Client: Private Project Financing Group Completed: May-July, 2018 Task: Qualitative research on Battery Energy Storage Solutions market.</summary></entry><entry><title type="html">Case Study Template</title><link href="http://localhost:4000/example/" rel="alternate" type="text/html" title="Case Study Template" /><published>2018-05-01T00:00:00+01:00</published><updated>2018-05-01T00:00:00+01:00</updated><id>http://localhost:4000/example</id><content type="html" xml:base="http://localhost:4000/example/">![Screenshot](url.com/pic.jpg)
 
 What code can be used:
 - markdown.
