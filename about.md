@@ -12,12 +12,12 @@ title: About
 Risk Management, including financial and business modelling, data and
 predictive analytics. </p>
 
-<p> Being part of abc technologies, Kirill develops project concepts,
-assemble and lead project teams of data scientist, financial engineers and
-risk analysts to execute and deliver tailored integral
+<p> Kirill develops project concepts, assemble and lead project teams 
+of data scientist, financial engineers and risk analysts 
+to execute and deliver tailored integral
 <a class="link" href="{{ site.url }}/projects">solutions</a> for abc's clients.
 
-<p>Before <a class="link" href='htrp://abctec.io'>abc technologies</a>,
+<p>Before <a class="link" href=>abc technologies</a>,
 Kirill has worked as a consultant and technical advisor on a broad range of
 <a class="link" href="{{ site.url }}/projects">assignments</a>
 within Energy, Power and Utilities practice, including
@@ -38,8 +38,8 @@ cum laude MSc Financial Risk and Investment Analysis from University of Sussex.<
     <li> Data Analysis and Predictive analytics
     <li> Energy Commodities
     <li> Project Management
-    <li> Asset Management and Technical Advisory in Energy, Power and Utilities
+    <li> Asset Management, Engineering and Technical Advisory in Power Energy
     <li> Programming: Python, SQL, NoSQL MongoDB, VBA
-    <li> Git, Tableau, </li>
-    <li> In progress: ML, IBM Watson, 
+    <li> Git, Tableau </li>
+    <li> In progress: ML, IBM Watson
     <li> Russian Language</li>
