@@ -8,18 +8,18 @@ title: About
 <br>
 <center><h4>{{ site.name }}</h4> </center>
 
-<p>Consultant specialising in Financial Analysis, Quantitative Research and
-Risk Management, including business intelligence, financial modelling, data and
+<p>Consultant specialising in financial analysis and quantitative research, 
+including business intelligence, financial modelling, market risks, data and
 predictive analytics. </p>
-
-<p> Kirill develops project concepts, assemble and lead project teams 
-to execute and deliver tailored integral <a class="link" href="{{ site.url }}/projects">solutions</a> 
-for abc's clients.
 
 <p>Kirill has worked as a consultant and technical advisor on a broad range of
 <a class="link" href="{{ site.url }}/projects">assignments</a>
 within Energy, Power and Utilities practice, including
 strategy, asset management, market research, technology analysis, and due diligence. </p>
+
+<p> Kirill develops project concepts, assemble and lead project teams 
+to execute and deliver tailored integral <a class="link" href="{{ site.url }}/projects">solutions</a> 
+for abc's clients.</p>
 
 <p>As a project management, Kirill supported multiple projects across 
 UK, Europe, SE Asia, and Middle East,
