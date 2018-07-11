@@ -9,7 +9,7 @@ title: About
 <center><h4>{{ site.name }}</h4> </center>
 
 <p>Consultant specialising in financial analysis and quantitative research, 
-including business intelligence, financial modelling, market risks, data and
+including business intelligence, financial modelling, risk management, data and
 predictive analytics. </p>
 
 <p>Kirill has worked as a consultant and technical advisor on a broad range of
