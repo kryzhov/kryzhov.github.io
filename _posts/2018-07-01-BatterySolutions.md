@@ -2,7 +2,7 @@
 title: "Battery Storage Market Ananlysis, PPF Group"
 description: "Case Study"
 layout: post
-date: 2018-05-01 00:00
+date: 2018-07-01 00:00
 author: kirill ryzhov
 category: projects
 projects: true
@@ -16,7 +16,7 @@ externalLink: false
 ---
 
 - Client: Private Project Financing Group 
-- Completed: May-July, 2018
+- Time frame: May-August, 2018
 - Task: Qualitative research on Battery Energy Storage Solutions market.
 
 Qualitattive market analysis, specifically focusing on Behind-The-Meter segment and synergy effect from co-locations with renewable energy generation. Comparative analysis of valuation methods for developers, dealing with medium sized creditors.
