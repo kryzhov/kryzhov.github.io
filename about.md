@@ -19,7 +19,7 @@ strategy, asset management, market research, technology analysis, and due dilige
 
 <p> Kirill develops project concepts, assemble and lead project teams 
 to execute and deliver tailored integral <a class="link" href="{{ site.url }}/projects">solutions</a> 
-for abc's clients.</p>
+for his clients.</p>
 
 <p>As a project management, Kirill supported multiple projects across 
 UK, Europe, SE Asia, and Middle East,
