@@ -1,13 +1,8 @@
-Mission & Mandate
-Our mission:
+ENBW Mission & Mandate <br>
 
-
-We are the commercial optimizer and integrated risk manager for EnBW and act as service providers for our business partners.
-
-Using our core competencies in trading, energy markets and risk management, we manage the energy risks as well as the risks in the related commodities and exploit the opportunities that arise for EnBW as a result of the changes in the energy markets.
+EnBW Trading is the commercial optimizer and integrated risk manager for EnBW and act as service providers for our business partners. Using core competencies in trading, energy markets and risk management, we manage the energy risks as well as the risks in the related commodities and exploit the opportunities that arise for EnBW as a result of the changes in the energy markets.
 
 We will be one of the most innovative and efficient trading companies in Europe and make a significant contribution to EnBW's success by optimizing and managing our energy position, offering our business partners innovative services and taking risks within specified limits.
-
  
 Our mandate:
 
@@ -32,9 +27,6 @@ Development of services and products based on the core competencies of trading a
 
 Our area of responsibility:
 
-The tasks of EnBW Handel
-focus on the core commodities electricity, gas, coal, oil, CO2 and related commodities as well as financial derivatives and emission allowances
-are expanding to new markets on behalf of the Group to support risk management activities, but not to engage in proprietary trading (e.g., metals)
-Focus on the liquid trading period, with trading activity expanding into the illiquid horizon for the core commodities
-are primarily focused on the domestic European energy markets and, in the Group order, also on the non-European energy markets
+The tasks are focused on the core commodities electricity, gas, coal, oil, CO2 and related commodities as well as financial derivatives and emission allowances; are expanding to new markets on behalf of the Group to support risk management activities, but not to engage in proprietary trading (e.g., metals) ; the liquid trading period, with trading activity expanding into the illiquid horizon for the core commodities; are primarily focused on the domestic European energy markets and, in the Group order, also on the non-European energy markets. 
+
 EnBW Handel acts in the best interests of the Group and adheres to its rules and regulations
